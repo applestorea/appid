@@ -62,7 +62,7 @@ $(function() {
 		localStorage.setItem("announcement",setTime);
 	}
 	// 版权
-	console.group("Faka");console.log("Name: 独角数卡");console.log("Github: https://github.com/assimon/dujiaoka");console.groupEnd();
+	console.group("Faka");console.log("Name: 苹果ID小卖铺");console.log("Github: https://www.appidas.com");console.groupEnd();
 	console.group("Theme");console.log("Name: Hyper Theme");console.log("Author: Bimoes");console.groupEnd();
 });
 // 图片懒加载
