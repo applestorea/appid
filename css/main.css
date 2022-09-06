@@ -381,9 +381,9 @@ a {
 
 .main .goods .goods-name {
     width: 100%;
-    overflow: hidden;
+    /*overflow: hidden;*/
     text-overflow: ellipsis;
-    white-space: nowrap;
+    /*white-space: nowrap;*/
     margin-bottom: 10px;
     color: #545454;
     font-size: 12px;
